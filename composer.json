@@ -1,5 +1,5 @@
 {
-	"name": "kakakucz/datagrid",
+	"name": "nextras/datagrid",
 	"type": "library",
 	"description": "Datagrid component for Nette Framework.",
 	"keywords": ["nextras", "nette", "datagrid"],
